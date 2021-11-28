@@ -1,6 +1,6 @@
 ## Форма авторизации с использованием React, Redux
 
-![](pictures/login.png)
+<img src="pictures/login.png" width="300px" height='300px'/>
 
 
 ![](pictures/loggedIn.png)
