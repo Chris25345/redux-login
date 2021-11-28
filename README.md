@@ -1,6 +1,6 @@
 ## Форма авторизации с использованием React, Redux
 
-<img src="pictures/login.png" width="550px" height='350px'/>
+<img src="pictures/login.png" width="550px" height='400px'/>
 
 
 
